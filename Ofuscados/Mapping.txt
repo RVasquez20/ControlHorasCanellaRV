@@ -1,0 +1,178 @@
+Renamed Types:
+
+[ControlDeHorasCanellaRV]System.Runtime.CompilerServices.NullableAttribute -> [ControlDeHorasCanellaRV] . 
+{
+
+	[ControlDeHorasCanellaRV]System.Runtime.CompilerServices.NullableAttribute::.ctor[1]( [System.Runtime]System.Byte ) skipped:  special name
+	[ControlDeHorasCanellaRV]System.Runtime.CompilerServices.NullableAttribute::.ctor[1]( [System.Runtime]System.Byte[] ) skipped:  special name
+
+	System.Byte[] [ControlDeHorasCanellaRV]System.Byte[] System.Runtime.CompilerServices.NullableAttribute::NullableFlags ->  
+}
+
+[ControlDeHorasCanellaRV]System.Runtime.CompilerServices.NullableContextAttribute -> [ControlDeHorasCanellaRV] . 
+{
+
+	[ControlDeHorasCanellaRV]System.Runtime.CompilerServices.NullableContextAttribute::.ctor[1]( [System.Runtime]System.Byte ) skipped:  special name
+
+	System.Byte [ControlDeHorasCanellaRV]System.Byte System.Runtime.CompilerServices.NullableContextAttribute::Flag ->  
+}
+
+[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal -> [ControlDeHorasCanellaRV] . 
+{
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal::EncryptStringToBytes_Aes[2]( [System.Runtime]System.String, [System.Runtime]System.String ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal::DecryptStringFromBytes_Aes[2]( [System.Runtime]System.Byte[], [System.Runtime]System.String ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal::guardarToolStripMenuItem_Click[2]( [System.Runtime]System.Object, [System.Runtime]System.EventArgs ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal::Principal_Load[2]( [System.Runtime]System.Object, [System.Runtime]System.EventArgs ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal::AdjustKeySize[2]( [System.Runtime]System.String, [System.Runtime]System.Int32 ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal::CargarDatosYActualizarTotalHoras[0]( ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal::ActualizarTotalHorasSemana[0]( ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal::GenerarToolStripMenuItem_Click[2]( [System.Runtime]System.Object, [System.Runtime]System.EventArgs ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal::txt_CantidadHoras_TextChanged[2]( [System.Runtime]System.Object, [System.Runtime]System.EventArgs ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal::cb_Proyecto_SelectedIndexChanged[2]( [System.Runtime]System.Object, [System.Runtime]System.EventArgs ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal::InitializeComponent[0]( ) ->  
+
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal::.ctor[0]( ) skipped:  special name
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal::Dispose[1]( [System.Runtime]System.Boolean ) skipped:  external base class or interface
+
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Principal::_KeyEnc ->  
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Principal::CodigoEmpleado ->  
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Principal::NombreColaborador ->  
+	System.String[] [ControlDeHorasCanellaRV]System.String[] ControlDeHorasCanellaRV.Principal::CodigoProyecto ->  
+	System.String[] [ControlDeHorasCanellaRV]System.String[] ControlDeHorasCanellaRV.Principal::Proyectos ->  
+	System.String[] [ControlDeHorasCanellaRV]System.String[] ControlDeHorasCanellaRV.Principal::Etapa ->  
+	System.String[] [ControlDeHorasCanellaRV]System.String[] ControlDeHorasCanellaRV.Principal::Actividad ->  
+	System.ComponentModel.IContainer [ControlDeHorasCanellaRV]System.ComponentModel.IContainer ControlDeHorasCanellaRV.Principal::components ->  
+	System.Windows.Forms.MenuStrip [ControlDeHorasCanellaRV]System.Windows.Forms.MenuStrip ControlDeHorasCanellaRV.Principal::menuStrip1 ->  
+	System.Windows.Forms.ToolStripMenuItem [ControlDeHorasCanellaRV]System.Windows.Forms.ToolStripMenuItem ControlDeHorasCanellaRV.Principal::guardarToolStripMenuItem ->  
+	System.Windows.Forms.ToolStripMenuItem [ControlDeHorasCanellaRV]System.Windows.Forms.ToolStripMenuItem ControlDeHorasCanellaRV.Principal::GenerarToolStripMenuItem ->  
+	System.Windows.Forms.Panel [ControlDeHorasCanellaRV]System.Windows.Forms.Panel ControlDeHorasCanellaRV.Principal::panel1 ->  
+	System.Windows.Forms.Label [ControlDeHorasCanellaRV]System.Windows.Forms.Label ControlDeHorasCanellaRV.Principal::lbl_CantidadHoras ->  
+	System.Windows.Forms.TextBox [ControlDeHorasCanellaRV]System.Windows.Forms.TextBox ControlDeHorasCanellaRV.Principal::txt_CantidadHoras ->  
+	System.Windows.Forms.ComboBox [ControlDeHorasCanellaRV]System.Windows.Forms.ComboBox ControlDeHorasCanellaRV.Principal::cb_TipoActividad ->  
+	System.Windows.Forms.ComboBox [ControlDeHorasCanellaRV]System.Windows.Forms.ComboBox ControlDeHorasCanellaRV.Principal::cb_Etapa ->  
+	System.Windows.Forms.ComboBox [ControlDeHorasCanellaRV]System.Windows.Forms.ComboBox ControlDeHorasCanellaRV.Principal::cb_Proyecto ->  
+	System.Windows.Forms.Label [ControlDeHorasCanellaRV]System.Windows.Forms.Label ControlDeHorasCanellaRV.Principal::lbl_TipoActividad ->  
+	System.Windows.Forms.Label [ControlDeHorasCanellaRV]System.Windows.Forms.Label ControlDeHorasCanellaRV.Principal::lbl_Etapa ->  
+	System.Windows.Forms.Label [ControlDeHorasCanellaRV]System.Windows.Forms.Label ControlDeHorasCanellaRV.Principal::lbl_Proyecto ->  
+	System.Windows.Forms.Label [ControlDeHorasCanellaRV]System.Windows.Forms.Label ControlDeHorasCanellaRV.Principal::label1 ->  
+	System.Windows.Forms.TextBox [ControlDeHorasCanellaRV]System.Windows.Forms.TextBox ControlDeHorasCanellaRV.Principal::txt_TotalHorasDia ->  
+	System.Windows.Forms.Label [ControlDeHorasCanellaRV]System.Windows.Forms.Label ControlDeHorasCanellaRV.Principal::label2 ->  
+	System.Windows.Forms.TextBox [ControlDeHorasCanellaRV]System.Windows.Forms.TextBox ControlDeHorasCanellaRV.Principal::txt_TotalHorasSemana ->  
+	System.Windows.Forms.TextBox [ControlDeHorasCanellaRV]System.Windows.Forms.TextBox ControlDeHorasCanellaRV.Principal::txt_Descripcion ->  
+	System.Windows.Forms.Label [ControlDeHorasCanellaRV]System.Windows.Forms.Label ControlDeHorasCanellaRV.Principal::lbl_Descripcion ->  
+	System.Windows.Forms.Label [ControlDeHorasCanellaRV]System.Windows.Forms.Label ControlDeHorasCanellaRV.Principal::label3 ->  
+	System.Windows.Forms.TextBox [ControlDeHorasCanellaRV]System.Windows.Forms.TextBox ControlDeHorasCanellaRV.Principal::txt_HorasRestantes ->  
+}
+
+[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro -> [ControlDeHorasCanellaRV] . 
+{
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::get_Codigo[0]( ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::set_Codigo[1]( [System.Runtime]System.String ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::get_Colaborador[0]( ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::set_Colaborador[1]( [System.Runtime]System.String ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::get_JefeProyecto[0]( ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::set_JefeProyecto[1]( [System.Runtime]System.String ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::get_CodigoProyecto[0]( ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::set_CodigoProyecto[1]( [System.Runtime]System.String ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::get_Proyecto[0]( ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::set_Proyecto[1]( [System.Runtime]System.String ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::get_FechaRegistro[0]( ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::set_FechaRegistro[1]( [System.Runtime]System.DateTime ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::get_CantidadHoras[0]( ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::set_CantidadHoras[1]( [System.Runtime]System.Double ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::get_Etapa[0]( ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::set_Etapa[1]( [System.Runtime]System.String ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::get_TipoActividad[0]( ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::set_TipoActividad[1]( [System.Runtime]System.String ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::get_Descripcion[0]( ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::set_Descripcion[1]( [System.Runtime]System.String ) ->  
+
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro::.ctor[0]( ) skipped:  special name
+
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Registro::<Codigo>k__BackingField ->  
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Registro::<Colaborador>k__BackingField ->  
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Registro::<JefeProyecto>k__BackingField ->  
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Registro::<CodigoProyecto>k__BackingField ->  
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Registro::<Proyecto>k__BackingField ->  
+	System.DateTime [ControlDeHorasCanellaRV]System.DateTime ControlDeHorasCanellaRV.Registro::<FechaRegistro>k__BackingField ->  
+	System.Double [ControlDeHorasCanellaRV]System.Double ControlDeHorasCanellaRV.Registro::<CantidadHoras>k__BackingField ->  
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Registro::<Etapa>k__BackingField ->  
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Registro::<TipoActividad>k__BackingField ->  
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Registro::<Descripcion>k__BackingField ->  
+
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Registro::Codigo -> dropped
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Registro::Colaborador -> dropped
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Registro::JefeProyecto -> dropped
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Registro::CodigoProyecto -> dropped
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Registro::Proyecto -> dropped
+	System.DateTime [ControlDeHorasCanellaRV]System.DateTime ControlDeHorasCanellaRV.Registro::FechaRegistro -> dropped
+	System.Double [ControlDeHorasCanellaRV]System.Double ControlDeHorasCanellaRV.Registro::CantidadHoras -> dropped
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Registro::Etapa -> dropped
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Registro::TipoActividad -> dropped
+	System.String [ControlDeHorasCanellaRV]System.String ControlDeHorasCanellaRV.Registro::Descripcion -> dropped
+}
+
+[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.RegistrosSemanales -> [ControlDeHorasCanellaRV] . 
+{
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.RegistrosSemanales::get_Registros[0]( ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.RegistrosSemanales::set_Registros[1]( [System.Collections]System.Collections.Generic.List`1<[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro> ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.RegistrosSemanales::get_FechaInicioSemana[0]( ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.RegistrosSemanales::set_FechaInicioSemana[1]( [System.Runtime]System.DateTime ) ->  
+
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.RegistrosSemanales::.ctor[0]( ) skipped:  special name
+
+	System.Collections.Generic.List`1<ControlDeHorasCanellaRV.Registro> [ControlDeHorasCanellaRV]System.Collections.Generic.List`1<ControlDeHorasCanellaRV.Registro> ControlDeHorasCanellaRV.RegistrosSemanales::<Registros>k__BackingField ->  
+	System.DateTime [ControlDeHorasCanellaRV]System.DateTime ControlDeHorasCanellaRV.RegistrosSemanales::<FechaInicioSemana>k__BackingField ->  
+
+	System.Collections.Generic.List`1<ControlDeHorasCanellaRV.Registro> [ControlDeHorasCanellaRV]System.Collections.Generic.List`1<ControlDeHorasCanellaRV.Registro> ControlDeHorasCanellaRV.RegistrosSemanales::Registros -> dropped
+	System.DateTime [ControlDeHorasCanellaRV]System.DateTime ControlDeHorasCanellaRV.RegistrosSemanales::FechaInicioSemana -> dropped
+}
+
+[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal/<>c -> [ControlDeHorasCanellaRV] . / 
+{
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal/<>c::<CargarDatosYActualizarTotalHoras>b__13_0[1]( [ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal/<>c::<CargarDatosYActualizarTotalHoras>b__13_1[1]( [ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal/<>c::<ActualizarTotalHorasSemana>b__14_0[1]( [ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal/<>c::<txt_CantidadHoras_TextChanged>b__16_0[1]( [ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro ) ->  
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal/<>c::<txt_CantidadHoras_TextChanged>b__16_1[1]( [ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Registro ) ->  
+
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal/<>c::.cctor[0]( ) skipped:  special name
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal/<>c::.ctor[0]( ) skipped:  special name
+
+	ControlDeHorasCanellaRV.Principal/<>c [ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Principal/<>c ControlDeHorasCanellaRV.Principal/<>c::<>9 ->  
+	System.Func`2<ControlDeHorasCanellaRV.Registro,System.Boolean> [ControlDeHorasCanellaRV]System.Func`2<ControlDeHorasCanellaRV.Registro,System.Boolean> ControlDeHorasCanellaRV.Principal/<>c::<>9__13_0 ->  
+	System.Func`2<ControlDeHorasCanellaRV.Registro,System.Double> [ControlDeHorasCanellaRV]System.Func`2<ControlDeHorasCanellaRV.Registro,System.Double> ControlDeHorasCanellaRV.Principal/<>c::<>9__13_1 ->  
+	System.Func`2<ControlDeHorasCanellaRV.Registro,System.Double> [ControlDeHorasCanellaRV]System.Func`2<ControlDeHorasCanellaRV.Registro,System.Double> ControlDeHorasCanellaRV.Principal/<>c::<>9__14_0 ->  
+	System.Func`2<ControlDeHorasCanellaRV.Registro,System.Boolean> [ControlDeHorasCanellaRV]System.Func`2<ControlDeHorasCanellaRV.Registro,System.Boolean> ControlDeHorasCanellaRV.Principal/<>c::<>9__16_0 ->  
+	System.Func`2<ControlDeHorasCanellaRV.Registro,System.Double> [ControlDeHorasCanellaRV]System.Func`2<ControlDeHorasCanellaRV.Registro,System.Double> ControlDeHorasCanellaRV.Principal/<>c::<>9__16_1 ->  
+}
+
+[ControlDeHorasCanellaRV]Microsoft.CodeAnalysis.EmbeddedAttribute -> [ControlDeHorasCanellaRV] . 
+{
+
+	[ControlDeHorasCanellaRV]Microsoft.CodeAnalysis.EmbeddedAttribute::.ctor[0]( ) skipped:  special name
+}
+
+[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.DateTimeExtensions -> [ControlDeHorasCanellaRV] . 
+{
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.DateTimeExtensions::StartOfWeek[2]( [System.Runtime]System.DateTime, [System.Runtime]System.DayOfWeek ) ->  
+}
+
+[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Program -> [ControlDeHorasCanellaRV] . 
+{
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.Program::Main[0]( ) ->  
+}
+
+[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.ApplicationConfiguration -> [ControlDeHorasCanellaRV] . 
+{
+	[ControlDeHorasCanellaRV]ControlDeHorasCanellaRV.ApplicationConfiguration::Initialize[0]( ) ->  
+}
+
+Skipped Types:
+
+Renamed Resources:
+
+ControlDeHorasCanellaRV.Principal.resources ->  . .resources
+
+Skipped Resources:
+

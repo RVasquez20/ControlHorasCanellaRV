@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>working.ico</ApplicationIcon>
+    <SignAssembly>False</SignAssembly>
+    <Authors>Rodrigo Vasquez</Authors>
+    <Company>Rodrigo Vasquez</Company>
+    <Copyright>Rodrigo Vasquez 2024</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="canella.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="canella.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="working.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.102.2" />
+    <PackageReference Include="Obfuscar" Version="2.2.38">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+ <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="&quot;$(Obfuscar)&quot; obfuscar.xml" />
+  </Target>
+
+
+</Project>

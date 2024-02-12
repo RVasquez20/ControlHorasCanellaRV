@@ -1,0 +1,28 @@
+ACUERDO DE LICENCIA DE SOFTWARE
+
+IMPORTANTE - LEA DETENIDAMENTE: Este Acuerdo de Licencia de Software ("Acuerdo") es un contrato legal entre usted (ya sea una persona natural o una entidad jurídica) y Rodrigo Vasquez ("Autor") para el software de aplicación identificado como "ControlHorasCanellaRV" ("Software"), que incluye programas informáticos y puede incluir medios asociados, materiales impresos y documentación "online" o electrónica.
+
+Al instalar, copiar o utilizar de cualquier otra manera el Software, usted acepta estar sujeto a los términos de este Acuerdo. Si no está de acuerdo con los términos de este Acuerdo, no instale ni utilice el Software.
+
+LICENCIA DE SOFTWARE: El Autor le otorga una licencia limitada, no exclusiva y revocable para usar el Software exclusivamente para su uso personal o interno. Usted no podrá vender, distribuir, alquilar, prestar, sublicenciar o de otra manera transferir el Software a terceros.
+
+DERECHOS DE AUTOR: El Software es propiedad de Rodrigo Vasquez y está protegido por leyes de derechos de autor y tratados internacionales, así como por otras leyes y tratados de propiedad intelectual. El Software se licencia y no se vende.
+
+RESTRICCIONES:
+
+Uso Comercial: No puede utilizar el Software con fines comerciales sin el consentimiento expreso y por escrito del Autor.
+Ingeniería Inversa: No puede realizar ingeniería inversa, descompilar o desensamblar el Software, excepto y solo en la medida en que dicha actividad esté expresamente permitida por la ley aplicable a pesar de esta limitación.
+Separación de Componentes: El Software se licencia como un producto único; sus partes componentes no se pueden separar para su uso en más de un equipo.
+TERMINACIÓN: Sin perjuicio de cualquier otro derecho, el Autor puede terminar este Acuerdo si usted incumple los términos y condiciones de este Acuerdo. En tal caso, usted debe destruir todas las copias del Software y todas sus partes componentes.
+
+ACCIÓN LEGAL: El uso no autorizado del Software dará lugar a acciones legales y a la demanda de indemnizaciones por daños y perjuicios.
+
+CREADO EN 2024: El Software fue creado y es titularidad de Rodrigo Vasquez desde el año 2024.
+
+LIMITACIÓN DE RESPONSABILIDAD: En ningún caso el Autor será responsable por daños especiales, incidentales, indirectos o consecuentes (incluyendo, sin limitación, daños por pérdida de beneficios, interrupción de negocio, pérdida de información empresarial, u otra pérdida pecuniaria) que resulten del uso o la imposibilidad de usar el Software, incluso si el Autor ha sido advertido de la posibilidad de tales daños.
+
+LEGISLACIÓN APLICABLE: Este Acuerdo se rige por las leyes de Guatemala.
+
+Al utilizar el Software, usted reconoce que ha leído este Acuerdo, lo entiende y acuerda estar sujeto a sus términos y condiciones. Asimismo, usted reconoce que este Acuerdo es la declaración completa y exclusiva del acuerdo entre usted y Rodrigo Vasquez y que supera cualquier propuesta o acuerdo previo, oral o escrito, y cualquier otra comunicación entre usted y el Autor relacionada con el objeto de este Acuerdo.
+
+Fecha de efectividad: 12/02/2024
